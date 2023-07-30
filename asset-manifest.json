@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bishmeet.userlist.github.io/static/css/main.b61d0e52.css",
+    "main.js": "/bishmeet.userlist.github.io/static/js/main.aba438c1.js",
+    "static/js/787.f12c1845.chunk.js": "/bishmeet.userlist.github.io/static/js/787.f12c1845.chunk.js",
+    "index.html": "/bishmeet.userlist.github.io/index.html",
+    "main.b61d0e52.css.map": "/bishmeet.userlist.github.io/static/css/main.b61d0e52.css.map",
+    "main.aba438c1.js.map": "/bishmeet.userlist.github.io/static/js/main.aba438c1.js.map",
+    "787.f12c1845.chunk.js.map": "/bishmeet.userlist.github.io/static/js/787.f12c1845.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b61d0e52.css",
+    "static/js/main.aba438c1.js"
+  ]
+}
